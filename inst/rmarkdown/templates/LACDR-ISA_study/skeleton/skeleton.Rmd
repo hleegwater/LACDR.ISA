@@ -1,0 +1,35 @@
+---
+title: ""
+author: ""
+date: "`r Sys.Date()`"
+engine: knitr
+format: 
+  html:
+    self-contained: true
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    df-print: kable
+---
+
+## Template Used
+
+LACDR-ISA - Study v1.0.0
+
+## Title
+
+A concise name given to the study.
+
+## Description
+
+A textual description of the study.
+
+## Publications
+
+A list of Publications relating to the study.
+
+## Contacts/role
+
+A list of Contacts relating to the study.
+
+## Additional information

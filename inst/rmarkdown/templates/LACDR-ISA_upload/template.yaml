@@ -1,0 +1,4 @@
+name: LACDR-ISA upload to Rspace
+description: >
+   This document is a small tutorial that can be followed to use the rspacer API to upload a html file to a folder in Rspace.
+create_dir: FALSE

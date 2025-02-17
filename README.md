@@ -10,7 +10,7 @@ This repository contains Quarto templates that can be used for scripting in R. T
 -   Install the templates using:
 
 ``` r
-remotes::install_github("hleegwater/LACDR.ISA")
+remotes::install_github("LACDR/LACDR.ISA")
 ```
 
 ## Use the Quarto templates
@@ -23,10 +23,11 @@ remotes::install_github("hleegwater/LACDR.ISA")
 
 ## Installation when you want to edit these templates or add custom templates
 
-This repository is meant to be very general for our research institute, the [LACDR](https://www.universiteitleiden.nl/en/science/drug-research). If you and your research group want [to have more specific templates or use the same custom workflows, take a look at ](more specific templates or use the same custom workflows, look at [R_templates_dds](https://github.com/hleegwater/R_templates_dds) for some more examples.
+This repository is meant to be very general for our research institute, the [LACDR](https://www.universiteitleiden.nl/en/science/drug-research). If you and your research group want to have more specific templates or use the same custom workflows, take a look at  [R_templates_dds](https://github.com/hleegwater/R_templates_dds) for some more examples. You can also make your own:
 
 -   Fork or clone this repository.
 -   Open the .Rproj project file to open the [R Project](https://bookdown.org/daniel_dauber_io/r4np_book/starting-your-r-projects.html).
+-   Edit a template, or add your own and put this in a separate folder in inst/rmarkdown/templates.
 -   In the top right panel in RStudio, click on Build, next to the Environment, History.
 -   Install.
 -   Restart Rstudio.
